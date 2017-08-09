@@ -5,6 +5,8 @@
 		<meta charset="<?php bloginfo('charset')?>">
 		<meta name="viewport" content="width=device-width">
 		<title><?php bloginfo('name');?></title>
+		<!--link type="text/css" rel="stylesheet" href="./themes/new_theme/style.css"-->
+		
 		<?php wp_head(); ?>
 	</head>
 	
